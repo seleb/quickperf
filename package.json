@@ -1,0 +1,14 @@
+{
+	"name": "quickperf",
+	"version": "1.0.0",
+	"description": "basic boilerplate for running tests with benchmark.js",
+	"main": "main.js",
+	"author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"benchmark": "^2.1.4"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
