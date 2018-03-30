@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "basic boilerplate for running tests with benchmark.js",
 	"main": "main.js",
+	"repository": "github:seleb/quickperf",
 	"author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
